@@ -1,0 +1,4 @@
+github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 h1:JYp7IbQjafoB+tBA3gMyHYHrpOtNuDiK/uB5uXxq5wM=
+github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
+github.com/gophercises/cyoa v0.0.0-20190722125433-070143bf424e h1:Y3JAFXK1uMrsewx++MrofSqQQmgI4g3YpMu1rg+jzjc=
+github.com/gophercises/cyoa v0.0.0-20190722125433-070143bf424e/go.mod h1:1XDsvt0bIKGaPhOtCdJ3ILdLq9nngopTZa9ZEbcXp8M=
